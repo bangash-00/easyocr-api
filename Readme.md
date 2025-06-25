@@ -34,8 +34,6 @@ pip install -r requirements.txt
 
 ```
 
----
-
 ## ⚙️ How to run
  - Run the server locally:
    - uvicorn main:app --reload
